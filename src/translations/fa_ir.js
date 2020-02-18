@@ -11,7 +11,7 @@ module.exports = {
 		"other"
 	],
 	"created_at": "2015-03-13T10:00:49Z",
-	"updated_at": "2020-01-22T00:32:04Z",
+	"updated_at": "2020-02-10T23:36:15Z",
 	"source_locale": null,
 	"keys": {
 		"about_label": "در باره",
@@ -655,6 +655,7 @@ module.exports = {
 		"notificationMailTemplateTooLarge_msg": "الگوی اطلاع رسان بیش از اندازه بزرگ است",
 		"notificationsDisabled_label": "غیرفعال‌شده",
 		"notificationSettings_action": "اعلان‌ها",
+		"notificationSync_msg": "هماهنگی اطلاعیه ها",
 		"notSigned_msg": "امضا نشده.",
 		"no_label": "نه",
 		"npoDiscount_msg": "پیشنهاد برای سازمان‌های ناسودبر (NPO): ٪۵۰ تخفیف کاربر برای اشتراک ویژه و ۱۰۰ نام مستعار به طور مجانی!",
@@ -784,7 +785,7 @@ module.exports = {
 		"promotion.npoDonation_msg": " اهدایی  به سازمان‌های غیرانتفاعی: تا ۵۰ کاربر برای اشتراک ممتاز و ۱۰۰ نام مستعار به طور مجانی!",
 		"promotion.tresoritDiscount_msg": "Tutanota + Tresorit پیشنهاد ویژه: ۵ ماه تخفیف برای سال اول!",
 		"pushIdentifierCurrentDevice_label": "این دستگاه",
-		"pushIdentifierInfoMessage_msg": "فهرست همهٔ گیرندگانی که برای کاربر Tutanota کنونی اعلان دریافت می‌کنند. شما می‌توانید موردی را حذف کنید اگر دیگر نمی‌خواهید اعلان‌ها را دریافت کنید.",
+		"pushIdentifierInfoMessage_msg": "فهرست همهٔ گیرندگان که برای این کاربراعلان دریافت می‌کنند.اگر دیگر نمی‌خواهید اعلان‌ها را دریافت کنید شما می‌توانید ورودیها را غیرفعال کنبد یا انها را از دستگاههایی که نمیخواهید  حذف کنید .",
 		"pushNewMailReceivedBody_msg": "شما یک ایمیل تازه از طریق {emailaddress} در{domainName}  دریافت کرده اید.",
 		"pushNewMail_msg": "ایمیل جدیدی رسید.",
 		"pwChangeValid_msg": "رمز عبور تغییر کرده است.",

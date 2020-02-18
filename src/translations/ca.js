@@ -11,7 +11,7 @@ module.exports = {
 		"other"
 	],
 	"created_at": "2015-05-29T11:04:17Z",
-	"updated_at": "2020-01-21T18:35:30Z",
+	"updated_at": "2020-02-11T17:22:44Z",
 	"source_locale": null,
 	"keys": {
 		"about_label": "Sobre",
@@ -93,6 +93,7 @@ module.exports = {
 		"auditLog_title": "Registre d'auditoria",
 		"automaticRenewal_label": "renovació automàtica",
 		"automatic_label": "Automàtic",
+		"autoUpdate_label": "Actualitzacions automàtiques",
 		"back_action": "Enrere",
 		"balance_label": "Saldo",
 		"bcc_label": "CCO",
@@ -655,6 +656,7 @@ module.exports = {
 		"notificationMailTemplateTooLarge_msg": "La plantilla de correu de notificació és massa gran.",
 		"notificationsDisabled_label": "Deshabilitat",
 		"notificationSettings_action": "Notificacions",
+		"notificationSync_msg": "Sincronitzar notificacions",
 		"notSigned_msg": "No signat",
 		"no_label": "No",
 		"npoDiscount_msg": "Oferta per a ONGs: 50% descompte per usuaris Premium i 100 àlies gratuïts!",
@@ -784,7 +786,7 @@ module.exports = {
 		"promotion.npoDonation_msg": "Donació per a ONGs: fins a 50 usuaris Premium i 100 àlies gratuïts!",
 		"promotion.tresoritDiscount_msg": "Oferta especial Tutanota + Tresorit: descompte de 5 mesos el primer any!",
 		"pushIdentifierCurrentDevice_label": "Aquest dispositiu",
-		"pushIdentifierInfoMessage_msg": "Llista de tots els dispositius que reben notificacions per a aquest usuari de Tutanota. Podeu esborrar una entrada si no desitjeu rebre més notificacions.",
+		"pushIdentifierInfoMessage_msg": "Llista de tots els dispositius que reben notificacions per a aquest usuari. Podeu activar entrades si no desitjeu rebre més notificacions o borrar-les per a dispositius que ja no utilitzeu.",
 		"pushNewMailReceivedBody_msg": "Heu rebut un nou correu electrònic per a la vostra bústia {emailAddress} a {domainName}.",
 		"pushNewMail_msg": "Heu rebut un nou correu.",
 		"pwChangeValid_msg": "S'ha canviat la contrasenya.",

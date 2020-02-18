@@ -11,7 +11,7 @@ module.exports = {
 		"other"
 	],
 	"created_at": "2015-01-27T13:14:10Z",
-	"updated_at": "2020-01-29T08:57:11Z",
+	"updated_at": "2020-02-11T14:34:40Z",
 	"source_locale": {
 		"id": "fcd7471b347c8e517663e194dcddf237",
 		"name": "en",
@@ -97,6 +97,7 @@ module.exports = {
 		"auditLog_title": "Registro di controllo",
 		"automaticRenewal_label": "rinnovo automatico",
 		"automatic_label": "Automatico",
+		"autoUpdate_label": "Aggiornamenti Automatici",
 		"back_action": "Indietro",
 		"balance_label": "Saldo",
 		"bcc_label": "Ccn",
@@ -659,6 +660,7 @@ module.exports = {
 		"notificationMailTemplateTooLarge_msg": "Il template della mail di notifica è troppo grande.",
 		"notificationsDisabled_label": "Disabilitato",
 		"notificationSettings_action": "Notifiche",
+		"notificationSync_msg": "Sincronizzazione delle notifiche",
 		"notSigned_msg": "Non firmato.",
 		"no_label": "No",
 		"npoDiscount_msg": "Offerta per le organizzazioni no-profit: 50% di sconto per l'utente Premium e 100 alias gratuiti!",
@@ -788,7 +790,7 @@ module.exports = {
 		"promotion.npoDonation_msg": "Regalo alle organizzazioni no-profit: fino a 50 utenti Premium e 100 alias gratuiti!",
 		"promotion.tresoritDiscount_msg": "Offerta speciale Tutanota + Tresorit: 5 mesi di sconto per il primo anno!",
 		"pushIdentifierCurrentDevice_label": "Dispositivo Attuale",
-		"pushIdentifierInfoMessage_msg": "Elenco dei dispositivi che ricevono notifiche push per l'account Tutanota in uso. E' possibile eliminare una delle seguenti voci, se non si desidera ricevere notifiche su quel dispositivo. ",
+		"pushIdentifierInfoMessage_msg": "Elenco di tutti i destinatari che ricevono notifiche per questo utente. Puoi disattivare le voci se non desideri ricevere notifiche o eliminarle per i dispositivi che non utilizzi più.",
 		"pushNewMailReceivedBody_msg": "Hai ricevuto una nuova email alla mailbox {emailAddress} at {domainName}.",
 		"pushNewMail_msg": "Nuova email ricevuta.",
 		"pwChangeValid_msg": "La password è stata cambiata.",
